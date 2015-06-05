@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Leaderboard" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Diogenes\\Documents\\Visual\ Studio\ 2013\\Projects\\LeaderBoard\\LeaderBoard\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Diogenes\\Documents\\Visual\ Studio\ 2013\\Projects\\LeaderBoard\\LeaderBoard\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="LeaderBoardconnString-Web.config Connection String" description="LeaderBoardconnString Connection String used in web.config by the application to access the database." value="server=127.0.0.1;User ID=lbuser; Password=lbusername; Database=leaderboard" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Diogenes\\Documents\\Visual\ Studio\ 2013\\Projects\\LeaderBoard\\LeaderBoard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LeaderBoardconnString']/@connectionString" />
+  </parameter>
+</parameters>

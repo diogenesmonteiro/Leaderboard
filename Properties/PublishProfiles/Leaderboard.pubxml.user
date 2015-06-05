@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6OLlx27JAUGyQsKbI5dWZwAAAAACAAAAAAAQZgAAAAEAACAAAABREL6EPBIbrDUBsoQ0Uzpu97dgqkbYMigOyPlK7DsSDAAAAAAOgAAAAAIAACAAAABbaMxfw7tr0NtPMFaV6feZCmo4DzBrUWd2bUoPlaTLtSAAAADLANsuedSM+SdaLCG3EmZCIwjLnUMlZ3Hx2p9e7cNUj0AAAAD3Ig5fuVgAyDHypE8BjK+40frVBbRgcvI7RiUMTV07IEYv9m2csMg7mZwS8j3jcUpm5eCwzo5/a09Wx03XCHFr</EncryptedPassword>
+    <_PublishTargetUrl>ftp://50.62.160.212/httpdocs/leaderboard</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/26/2015 23:24:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/26/2015 23:24:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/26/2015 23:24:30</publishTime>
+    </File>
+    <File Include="bin/LeaderBoard.dll">
+      <publishTime>06/03/2015 23:11:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>08/11/2014 18:13:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>11/07/2014 21:35:48</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.ApplicationServices.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.DataVisualization.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/26/2015 23:24:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/26/2015 23:24:31</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>06/03/2015 22:26:46</publishTime>
+    </File>
+    <File Include="Images/calendar.gif">
+      <publishTime>02/05/2015 08:37:20</publishTime>
+    </File>
+    <File Include="leaderboardAmrap.aspx">
+      <publishTime>06/03/2015 23:13:55</publishTime>
+    </File>
+    <File Include="leaderboardBenchmark.aspx">
+      <publishTime>06/03/2015 23:14:05</publishTime>
+    </File>
+    <File Include="leaderBoardInput.aspx">
+      <publishTime>06/03/2015 23:06:16</publishTime>
+    </File>
+    <File Include="leaderboardMax.aspx">
+      <publishTime>06/03/2015 23:14:29</publishTime>
+    </File>
+    <File Include="leaderboardRegular.aspx">
+      <publishTime>06/03/2015 23:14:29</publishTime>
+    </File>
+    <File Include="personalArea.aspx">
+      <publishTime>12/29/2014 00:37:14</publishTime>
+    </File>
+    <File Include="Scripts/lbInput.js">
+      <publishTime>02/04/2015 12:25:30</publishTime>
+    </File>
+    <File Include="signup.aspx">
+      <publishTime>05/06/2015 13:54:15</publishTime>
+    </File>
+    <File Include="Styles/lbInput.css">
+      <publishTime>06/03/2015 22:58:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/03/2015 22:57:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
